@@ -10,6 +10,7 @@ A Chrome extension that enhances bookmark management with advanced search capabi
 - **Settings**: Customize your experience with various options.
 - **Report a Bug**: Use the report a bug option in the settings to report any bug which you might encounter.
 - **Support us**: If you like the product and would like to support me for the development donate via support me.
+- **Popup Shortcut**: Press Command+B (on Mac) or Ctrl+B (on Windows/Linux) to open the popup
 
 
 ## Usage
