@@ -5,8 +5,7 @@ Bookmark Search Plus (BS+) is a **Chrome extension designed to enhance bookmark 
 
 [![Watch the video](https://img.youtube.com/vi/BjPKwSk3hJY/maxresdefault.jpg)](https://youtu.be/BjPKwSk3hJY)
 
-### [Watch this video on YouTube](https://youtu.be/BjPKwSk3hJY)
-
+### [How to make the most of BS+(watch now)](https://youtu.be/BjPKwSk3hJY)
 
 
 **1\. Installing Bookmark Search Plus**
